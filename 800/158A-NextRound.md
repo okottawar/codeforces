@@ -99,5 +99,3 @@ public class Main {
     }
 }
 ```
-
-If you want, I can also help you upgrade this template into a **universal CF notes format** (so every problem entry takes ~30 seconds to write but stays clean and consistent).
